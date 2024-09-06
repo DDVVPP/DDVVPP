@@ -20,6 +20,6 @@ Nice to meet you! I'm Darshin!
 ## Connect with me:
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/darshinvanparijs/)
-&nbsp;[![instagram](https://skillicons.dev/icons?i=gmail)](darshinvp@gmail.com)
-&nbsp;[![discord](https://skillicons.dev/icons?i=discord)](discordapp.com/users/654238084594008104)
+&nbsp;[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:darshinvp@gmail.com)
+&nbsp;[![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/654238084594008104)
 
