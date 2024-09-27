@@ -13,7 +13,8 @@ Nice to meet you! I'm Darshin!
 
 ## Github Analytics
 <div align="left">
-
+**<img height=150 src="https://github-readme-stats.vercel.app/api?username=DDVVPP&show_icons=true&theme=midnight-purple&hide=stars,contribs"/>
+&nbsp;&nbsp;<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=DDVVPP&show_icons=true&locale=en&layout=compact&hide=procfile,html,shell&theme=midnight-purple"/>**
 </div>
 
 ## Connect with me:
