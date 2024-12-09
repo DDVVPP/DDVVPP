@@ -10,7 +10,7 @@ Nice to meet you! I'm Darshin!
 - ⚡ Fun fact: When I'm not coding, you can find me nerding out on Brazilian Zouk dance techniques
 
 ## My Skills
-![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,jest,prisma,postgres,graphql,nodejs)
+![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,jest,prisma,postgres,nodejs)
 
 ## Github Analytics
 <div align="left">
