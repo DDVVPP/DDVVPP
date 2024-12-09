@@ -3,7 +3,7 @@
 Nice to meet you! I'm Darshin!
 
 - ☀️  I'm a frontend leaning fullstack software developer located in sunny Los Angeles, CA
-- 🔭 I'm currently focused on personal projects and honing my skills
+- 🔭 Skilled in TypeScript, JavaScript, Next.js, React.js, PostgreSQL, and Node.js
 - 🌱 I would love to collaborate on projects that make a positive impact
 - 📝 My linkedIn: [darshinvanparijs](https://www.linkedin.com/in/darshinvanparijs/)
 - 🎨 My portfolio website: [darshin.me](darshin.me)
