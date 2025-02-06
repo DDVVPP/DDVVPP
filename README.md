@@ -6,7 +6,7 @@ Nice to meet you! I'm Darshin!
 - 🔭 Skilled in JavaScript, TypeScript, React, Next.js, PostgreSQL, Node.js and TailwindCSS
 - 🌱 I would love to collaborate on projects that make a positive impact
 - 📝 My linkedIn: [darshinvanparijs](https://www.linkedin.com/in/darshinvanparijs/)
-- 🎨 My portfolio website: [darshin.me](darshin.me)
+- 🎨 My portfolio website: [darshin.me](https://www.darshin.me)
 - ⚡ Fun fact: When I'm not coding, you can find me nerding out on Brazilian Zouk dance techniques
 
 ## My Skills
